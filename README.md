@@ -8,7 +8,7 @@ A machine learning project to predict autism using Decision Trees, Random Forest
 - Decision Tree, Random Forest, and XGBoost models  
 - Hyperparameter tuning with RandomizedSearchCV  
 - SMOTE for class balancing  
-- Performance evaluation and model comparison  
+- Performance evaluation and model comparison.
 
 ## Dataset
 
